@@ -1,0 +1,16 @@
+.item {
+  display: flex !important;
+  flex-direction: row;
+  border-bottom: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.content {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+}
+
+img.ui.image {
+  width: 200px;
+}
